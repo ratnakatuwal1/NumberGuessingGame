@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+    <string name="para">Please select a number of digits. The number of digits that i keep in my mind and the number of digits you choose will be the same. Also, never forget that you have 10 life</string>
+</resources>
